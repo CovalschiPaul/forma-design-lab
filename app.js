@@ -77,3 +77,12 @@ function offgridDemo(){
 }
 const demos={clear:clearDemo,still:stillDemo,offgrid:offgridDemo};
 document.querySelectorAll('[data-demo]').forEach(button=>button.addEventListener('click',()=>demos[button.dataset.demo]()));
+
+const structureToggle = document.querySelector('#structure-toggle');
+structureToggle.addEventListener('click', () => {
+ const enabled = structureToggle.getAttribute('aria-pressed') !== 'true';
+ structureToggle.setAttribute('aria-pressed', String(enabled));
+ structureToggle.setAttribute('aria-label', enabled ? 'Hide construction lines' : 'Show construction lines');
+ structureToggle.innerHTML = enabled ? 'Hide structure <span aria-hidden="true">−</span>' : 'Show structure <span aria-hidden="true">+</span>';
+ document.querySelector('.hero-art').classList.toggle('structure-visible', enabled);
+});

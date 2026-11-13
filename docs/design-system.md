@@ -4,11 +4,11 @@
 
 | Token | Value | Use |
 | --- | --- | --- |
-| Paper | `#F3F2EC` | Page and dialog background |
-| Ink | `#232720` | Text and primary actions |
-| Muted | `#66695E` | Secondary descriptions |
-| Lime | `#D4ED68` | Hero artwork and accent |
-| Line | `#D7D9CD` | Borders and separators |
+| Paper | `#F5F1E8` | Page and dialog background |
+| Ink | `#242D36` | Text and primary actions |
+| Muted | `#62676B` | Secondary descriptions |
+| Ochre | `#EFB05B` | Hero artwork and accent |
+| Line | `#D4D0C6` | Borders and separators |
 | Radius | 6–16 px | Cards, controls, dialogs |
 
 Body text uses locally available Arial/Helvetica/system sans-serif. Georgia adds an editorial accent to selected headlines. No font download is required. Main text is intentionally dark on light; decorative miniature interface labels are not a substitute for the readable interactive prototype.
@@ -34,3 +34,7 @@ Short descriptive labels; specific feedback; reversible actions. Use “Demo bag
 ## Further validation
 
 These foundations are not a claim of WCAG certification. Verify screen-reader announcements, zoom to 200–400%, contrast in all states, and touch targets on real devices before production use.
+
+## Volume 02 — working-drawing direction
+
+The hero uses three original folded planes on a measured grid. A keyboard-accessible “Show structure” control separates the planes and reveals their construction lines. Ochre, slate, and paper replace the original lime direction. Monospace annotations and squared frames connect the composition to a designer’s working archive. Motion is disabled under reduced-motion preferences.

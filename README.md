@@ -1,10 +1,12 @@
 # FORMA — Design that makes sense.
 
-An interactive web and UX/UI design showcase by **Paul-Andrei Covalschi**, built with AI assistance. Three self-initiated concepts explore how visual hierarchy, thoughtful interaction, and accessible controls can make complex tasks easier.
+An interactive web and UX/UI design showcase by **Paul-Andrei Covalschi**. Three self-initiated concepts explore how visual hierarchy, thoughtful interaction, and accessible controls can make complex tasks easier.
 
 **[Explore the live demo](https://covalschipaul.github.io/forma-design-lab/)** · [UX case studies](docs/case-studies.md) · [Design system](docs/design-system.md) · [QA checklist](docs/qa.md)
 
-![FORMA live desktop preview](docs/preview.jpg)
+![FORMA concept cover](docs/cover.svg)
+
+The hero includes an interactive construction view: use **Show structure** to reveal the geometry behind its folded-plane composition.
 
 ## Explore the work
 
@@ -28,7 +30,7 @@ Then visit `http://localhost:8000`. There is no build step.
 
 ## Design intent
 
-- **A distinct visual language:** warm paper, dark ink, acid green, large typography, and editorial spacing.
+- **A distinct visual language:** warm paper, dark ink, ochre, large typography, and editorial spacing.
 - **A real task behind every screen:** review an exception, configure a purchase, or shortlist a place.
 - **Visible feedback:** state changes are announced; reversible actions stay available.
 - **Accessible foundations:** semantic landmarks, labels, native controls, modal dialogs, keyboard focus styles, reduced-motion support, and text-based status indicators.
@@ -61,4 +63,4 @@ Prototype state stays in memory and resets on reload. There is no backend, payme
 
 ## Attribution and license
 
-Concept direction and portfolio: Paul-Andrei Covalschi. Implementation and initial design exploration created with AI assistance. All artwork is original CSS/SVG; no external image licenses are required. Code is available under the [MIT License](LICENSE).
+Concept direction and portfolio: Paul-Andrei Covalschi. All artwork is original CSS/SVG; no external image licenses are required. Code is available under the [MIT License](LICENSE).

@@ -1,6 +1,6 @@
 # Three UX explorations
 
-These studies document hypotheses and implementation decisions. They do not report user interviews or measured results. All three concepts were created for a portfolio with AI assistance.
+These studies document hypotheses and implementation decisions. They do not report user interviews or measured results. All three concepts were created for a portfolio.
 
 ## 01 — Clear: catalog workspace
 
