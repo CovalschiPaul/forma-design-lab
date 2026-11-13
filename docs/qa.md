@@ -36,3 +36,7 @@ Verified on 14 November 2026 in desktop Chromium against the deployed GitHub Pag
 - Desktop hero composition visually inspected; preview image captured.
 
 Mobile/real-device, screen-reader, zoom, and full cross-browser validation remain pending. The reusable checklist above intentionally remains unchecked to support a complete future QA pass.
+
+## Volume 02 checks
+
+HTML nesting, unique IDs, local interaction target, and JavaScript syntax checks passed. Original prototype flows are unchanged. The visual system and hero structure control were revised; the screenshot from the first version is retained as historical reference.
