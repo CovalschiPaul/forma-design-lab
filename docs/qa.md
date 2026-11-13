@@ -24,4 +24,15 @@ Miniature previews are visual compositions. Use their prototype buttons for read
 
 ## Verification record
 
-See the final repository commit notes for checks actually performed. Unchecked items above are a reusable checklist, not a claim that validation occurred.
+Verified on 14 November 2026 in desktop Chromium against the deployed GitHub Pages site:
+
+- JavaScript syntax check passed; static IDs are unique and local assets exist.
+- Catalog search, review action, undo, and no-results message passed.
+- Walnut finish selection updated the accessible product description.
+- Two chairs calculated €498; adding reported two walnut chairs; emptying reset the bag.
+- Outdoors filtering, saving, saved-only view, unsaving, and empty-state recovery copy passed.
+- E-commerce project filter showed one project; All restored three.
+- Case study opened the corresponding prototype; Escape dismissed the dialog.
+- Desktop hero composition visually inspected; preview image captured.
+
+Mobile/real-device, screen-reader, zoom, and full cross-browser validation remain pending. The reusable checklist above intentionally remains unchecked to support a complete future QA pass.

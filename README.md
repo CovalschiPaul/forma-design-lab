@@ -4,7 +4,7 @@ An interactive web and UX/UI design showcase by **Paul-Andrei Covalschi**, built
 
 **[Explore the live demo](https://covalschipaul.github.io/forma-design-lab/)** · [UX case studies](docs/case-studies.md) · [Design system](docs/design-system.md) · [QA checklist](docs/qa.md)
 
-![FORMA cover](docs/cover.svg)
+![FORMA live desktop preview](docs/preview.jpg)
 
 ## Explore the work
 
